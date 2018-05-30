@@ -1,0 +1,9 @@
+#Unreal Generated Files#
+*/Intermediate
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Saved
+BuildingEscape/Content/StarterContent/
+*.db
+*.opendb
